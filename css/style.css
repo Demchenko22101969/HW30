@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    padding: 10px;
+    border: 2px solid black;
+    width: 700px;
+    height: 450px;
+  margin: 20px auto;
+}
+.vid {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+h2 {
+    text-align: center;
+}
